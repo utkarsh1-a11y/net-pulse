@@ -71,7 +71,7 @@ Speed = File Size (bits) / Download Time (seconds)
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/NetPulse.git
+git clone https://github.com/utkarsh1-a11y/net-pulse.git
 ```
 
 ### Navigate to the Project Folder
